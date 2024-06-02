@@ -3,7 +3,7 @@ my email is `bazthedev@gmail.com`
 my discord is `bazthedev`
 my tweeter (x) is `@_bazthedev` but I dont post much
 
-interests:
-python
-malware
-cybersecurity
+### interests:
+- python
+- malware
+- cybersecurity
