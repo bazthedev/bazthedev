@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=bazthedev&style=flat)
+![](https://komarev.com/ghpvc/?username=bazthedev&style=flat) \
 hiya im @bazthedev and I like the python
 my email is `bazthedev@gmail.com`
 my discord is `bazexists`
