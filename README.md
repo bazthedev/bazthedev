@@ -50,7 +50,7 @@ A Python-based Roblox macro featuring **OCR, computer vision, plugins, Discord w
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-bazthedev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bazthedev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-bazthedev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/Discord-bazthedev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/730043363671277638)
 
 <br><br>
 
